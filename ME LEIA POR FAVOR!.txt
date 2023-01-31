@@ -1,0 +1,26 @@
+			CREDENCIAIS PARA LOGIN NO SISTEMA:
+
+- ADMINISTRADOR
+
+ID Admin: admin
+Password: qwertyuiop
+
+
+- GESTOR
+
+Número de Telemóvel: 875158192
+
+Senha: em2002
+
+
+- CAIXA
+
+Número de Telemóvel: 840390685
+Senha: 12345
+
+
+
+
+===================================================================================================================================================
+	
+Author:	Marcio Albino Martinho
